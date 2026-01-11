@@ -1,18 +1,70 @@
-# 💫 About Me:
-I'm currently working on<br><br>Small-scale data analysis projects using Python (Pandas, NumPy, Matplotlib/Seaborn) — currently exploring IPL cricket datasets to find insights like top performers, win probabilities, and venue stats. Also experimenting with basic data pipelines on local setups to handle larger files without crashing.<br>I'm looking to collaborate on<br>Hackathons or mini group projects in data visualisation, exploratory data analysis (EDA), or simple predictive models using public datasets (e.g., sports, movies, sales). Open to teaming up on GitHub for Kaggle-style competitions or building interactive dashboards (Streamlit/Plotly). DM me if you're from SRM or into Big Data/ML! 🤝<br>I'm looking for help with<br><br>Setting up a local Hadoop + Spark environment (beginner-friendly, on laptop without too much RAM usage)<br>Efficiently handling bigger datasets (1GB+) in PySpark without memory issues<br>Writing optimized SQL queries for data warehousing scenarios<br>Debugging common errors in Pandas when merging/cleaning messy real-world data 😅<br><br>I'm currently learning<br><br>Advanced Pandas & NumPy for fast data manipulation and cleaning<br>PySpark basics (RDDs, DataFrames, Spark SQL) for distributed processing<br>Data visualization with Seaborn, Plotly, and intro to Streamlit dashboards<br>Core statistics/probability (hypothesis testing, distributions) — crucial for analytics<br>First steps in Machine Learning with scikit-learn (regression, classification, basic recommendation systems)<br><br>Ask me about<br><br>SRM KTR campus life (best canteens, hostel hacks, how tough are the Big Data courses?)<br>Difference between regular CSE and Big Data Analytics specialization (more focus on Hadoop/Spark/NoSQL/ML for data)<br>Beginner-friendly Kaggle datasets & how to start your first notebook<br>Balancing college + self-learning + placements prep (time management tips!)<br><br>Fun fact<br>I analyzed my own college mess food ratings (made-up dataset from friends) and found out biryani wins 82% of the time... but sambar rice is secretly the most consistent performer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hey+There!+👋+I'm+Rudra;2nd+Year+BTech+CSE+%7C+Big+Data+Analytics+@+SRM+KTR;Passionate+about+Data%2C+Insights+and+Scalable+Systems" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudraabtw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rudrabeast324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahusanskarashu12@gmail.com) 
+### 🚀 About Me
+- 🎓 Pursuing **BTech in Computer Science & Engineering** with specialization in **Big Data Analytics** at **SRM Institute of Science and Technology, Kattankulathur** (2nd Year)
+- 📊 Focused on turning raw data into actionable insights using Python, SQL, Hadoop, Spark & ML basics
+- 🌱 Currently building small-scale data pipelines, doing EDA on public datasets, and exploring distributed computing
+- 🔭 Always up for collaborating on Kaggle competitions, hackathons, or beginner-friendly big data projects
+- ⚡ Fun fact: I once analyzed my Spotify Wrapped data... turns out exam season = 80% lo-fi beats on repeat 🎧📈
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=flat-square&logo=stylus&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=flat-square&logo=apache&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat-square&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat-square&logo=Airbnb&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ss0595&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ss0595&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss0595&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ss0595&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Tech Stack & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,vscode,linux&theme=dark&perline=7" />
+  </a>
+</p>
+
+**Core Skills**  
+- **Languages** → Python, SQL, Java (basics)  
+- **Data** → Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Big Data** → Learning Hadoop, PySpark, Kafka basics  
+- **ML Intro** → scikit-learn, basic regression/classification  
+- **Others** → Jupyter, Git, Kaggle, Google Colab  
+
+<br/>
+
+### 🌟 Featured Projects
+
+Here are some of the cool things I'm working on right now:
+
+- **[IPL Data Analysis](https://github.com/YOUR_USERNAME/IPL-Analysis)** → End-to-end EDA + visualizations on IPL matches & ball-by-ball data (Pandas + Plotly) 🏏📊
+- **[Movie Recommendation System](https://github.com/YOUR_USERNAME/Movie-Recommender)** → Basic collaborative filtering using MovieLens dataset (scikit-learn) 🎬
+- **[Personal Spotify Data Insights](https://github.com/YOUR_USERNAME/Spotify-Wrapped-Analysis)** → Analyzed my listening habits with time series & fun stats 🎵
+
+Check out my repositories for more → [View All Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+Thanks for stopping by! Feel free to ⭐ my repos or drop a message if you're also into data, big data, or just want to chat about campus life at SRM 😄
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Visitors"/>
+</div>
